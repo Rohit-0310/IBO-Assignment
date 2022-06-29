@@ -1,0 +1,19 @@
+body{
+    padding: 10px 10px;
+    max-width: 720px;
+    margin: 0 auto;
+    min-height: 50vh;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    
+  }
+  
+  h1{
+    color: #D500F9;
+  }
+  
+  p{
+    color: #6A1B9A;
+    
+  }
+  
